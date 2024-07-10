@@ -1,0 +1,4 @@
+firebase_functions
+firebase-admin
+requests
+pyppeteer==2.0.0
